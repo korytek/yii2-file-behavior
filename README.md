@@ -1,2 +1,2 @@
-# yii2-file-behavior
-Behavior allows you to attach and manage files to any of your models.
+# yii2-filesbehavior
+Behavior allows you to attach and manage files connected to any of your models.
